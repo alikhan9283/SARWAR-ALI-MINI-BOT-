@@ -1,7 +1,7 @@
 ✨ 𝐒𝐀𝐑𝐖𝐀𝐑-𝐀𝐋𝐈-𝐌𝐈𝐍𝐈-𝐁𝐎𝐓 ✨
 
 <p align="center">
-  <img src="https://i.imgur.com/IkEv97P.jpeg" width="200"/>
+  <img src="https://files.catbox.moe/zc57w6.jpg" width="200"/>
 </p><p align="center">
   <b>⚡ Powerful WhatsApp Multi Device Bot ⚡</b><br>
   <i>Fast • Secure • Stylish • Easy to Deploy</i>
